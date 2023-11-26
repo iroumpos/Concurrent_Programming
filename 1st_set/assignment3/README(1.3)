@@ -1,0 +1,7 @@
+####
+Compiling and testing details.
+
+-- Compile file with gcc and lpthreads : gcc -Wall -g filename.c -o prime -lpthread.
+-- You should give argv(1) = filename)
+    ex. ./project3 filename
+####

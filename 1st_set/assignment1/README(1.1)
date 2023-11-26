@@ -1,0 +1,7 @@
+####
+Compilation and testing details.
+
+--The source code compiles with the Makefile
+--And runs with ./filename
+
+####

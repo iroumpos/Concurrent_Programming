@@ -1,0 +1,7 @@
+####
+Compilation and testing details.
+
+-- Compile file with gcc and lpthreads : gcc -Wall -g filename.c -o prime -lpthread.
+-- Gives numbers from stdin waits from the printed message and terminates with Ctrl+D.
+
+####

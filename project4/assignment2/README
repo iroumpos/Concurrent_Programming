@@ -1,0 +1,4 @@
+*****************************************
+Compiles with the Makefile(make)
+And runs with ./program <num_of_thread>
+*****************************************
